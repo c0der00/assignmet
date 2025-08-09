@@ -11,7 +11,7 @@ function Card() {
         <img
           src={car_img}
           alt="Card Image"
-          className="w-full max-h-[240px] object-cover sm:rotate-90 rounded-[10px]"
+          className="w-full max-h-[240px] object-cover  rotate-90 rounded-[10px]"
         />
       </div>
 
