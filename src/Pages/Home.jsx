@@ -173,7 +173,7 @@ function Home() {
             </div>
             </div>
 
-            <div className="flex flex-col px-3 sm:px-0">
+            <div className="flex flex-col mx-4 sm:mx-0">
             <p className="h-[52px] text-[2.5rem] text-white  font-Poppins leading-[3.5rem]">
              SKILLS
             </p>
