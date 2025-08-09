@@ -20,7 +20,7 @@ function Footer() {
                 </div>
             </div>
             <div className="w-full flex bg-[#A87FF3] max-w-[1200px] relative justify-between mx-auto rounded-[15px] sm:px-10 sm:py-6 gap-10 mb-10">
-                <svg className="absolute left-0  top-5 sm:top-9 w-15 sm:w-30 h-20" viewBox="0 0 150 125" fill="none" xmlns="http://www.w3.org/2000/svg"  >
+                <svg className="absolute left-0 top-5 sm:top-16 lg:top-9    w-15 sm:w-30 h-20" viewBox="0 0 150 125" fill="none" xmlns="http://www.w3.org/2000/svg"  >
                     <g clipPath="url(#clip0_1_2337)">
                         <path d="M147.891 125C152.48 111.353 152.582 81.4995 116.282 71.2641C90.4865 63.9907 78.0957 51.9796 72.9623 42.5762C69.7118 36.6218 68.8102 29.4706 64.7769 24.0159C54.1337 9.62221 31.7782 -2.95042 -2 23.1576" stroke="white" strokeWidth="2" />
                         <path d="M130.891 138C135.48 125.636 135.582 98.5893 99.2816 89.3162C74.9952 83.1121 62.5909 73.103 56.9387 64.8432C52.7603 58.7371 51.6026 50.7873 46.7015 45.2445C35.6678 32.766 13.6799 22.8482 -19 45.7326" stroke="white" strokeWidth="2" />
@@ -42,7 +42,7 @@ function Footer() {
                     Thanks for visiting my website. <br/> If you have any questions you can write me to any of my social networks, I am sure I will answer you.
                 </p>
 
-                <svg className=" absolute right-0 bottom-5  0 sm:bottom-9 w-15 sm:w-30 h-20" viewBox="0 0 150 125" fill="none" xmlns="http://www.w3.org/2000/svg"  >
+                <svg className=" absolute right-0 bottom-5 sm:bottom-0 sm:top-0 w-15 sm:w-30 h-20" viewBox="0 0 150 125" fill="none" xmlns="http://www.w3.org/2000/svg"  >
                     <g clip-path="url(#clip0_1_2342)">
                         <path d="M2.10877 0C-2.47972 13.6472 -2.58169 43.5005 33.7184 53.7359C59.5135 61.0093 71.9043 73.0204 77.0377 82.4238C80.2882 88.3782 81.1898 95.5294 85.2231 100.984C95.8663 115.378 118.222 127.95 152 101.842" stroke="white" stroke-width="2" />
                         <path d="M19.1088 -13C14.5203 -0.635856 14.4183 26.4107 50.7184 35.6838C75.0048 41.8879 87.4091 51.897 93.0613 60.1568C97.2397 66.2629 98.3974 74.2127 103.299 79.7555C114.332 92.234 136.32 102.152 169 79.2674" stroke="white" stroke-width="2" />
