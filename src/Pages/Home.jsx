@@ -173,12 +173,12 @@ function Home() {
             </div>
             </div>
 
-            <div className="flex flex-col  ">
+            <div className="flex flex-col px-3 sm:px-0">
             <p className="h-[52px] text-[2.5rem] text-white  font-Poppins leading-[3.5rem]">
              SKILLS
             </p>
 
-            <div className="grid  lg:grid-cols-2 gap-[20px] mb-[20px] ">
+            <div className="grid  lg:grid-cols-2 gap-[20px] mb-[20px]">
                 <SkillsCard
                 children="UX Design"
                 text = "UI design is the process of designing the visual and interactive elements of a user interface, such as buttons, icons, and layout, to create an intuitive and pleasing experience for users."
